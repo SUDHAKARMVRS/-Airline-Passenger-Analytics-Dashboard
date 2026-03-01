@@ -1,4 +1,4 @@
-### ✈️ Airline Passenger Analytics Dashboard
+# ✈️ Airline Passenger Analytics Dashboard
 ## 📊 Project Overview
 
 The Airline Passenger Analytics Dashboard is an interactive Power BI report designed to analyze airline passenger data, flight performance, and geographic distribution.
@@ -178,3 +178,7 @@ Data Visualization
 Time Intelligence
 
 Business Insight Generation
+
+## 🙋‍♂️ Author
+Sudhakar M.
+📫 [LinkedIn] 📧 sudhakar.mvrs@gmail.com
